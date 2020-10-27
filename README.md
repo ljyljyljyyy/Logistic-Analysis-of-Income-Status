@@ -1,2 +1,4 @@
-# Surveys-Sampling-ObservationalStudies
-Repo for STA304
+# A Logistic Analysis of Income-Status based on Age, Ethnicity and Education
+
+## Abstract
+The research objective of this project is to classify an individual’s income status based on their age, ethnicity and maximum education level obtained and study the impact of each variable on an individual’s income status. A binary response variable “income_status” is constructed and is used as the response variable in our logistic regression model. Results from our model show that while age is not a meaningful factor in determining an individual’s income status, ethnicity and education are significant factors. Further improvements include limiting the sampling population to working individuals to account for more accurate interpretation for the age variable, sampling more visible minority respondents, and including other potential factors of influence in our model to avoid underfitting. The findings of this project can provide insights on social values and trends on wealth distribution.
